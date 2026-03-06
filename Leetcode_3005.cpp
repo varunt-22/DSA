@@ -1,5 +1,5 @@
 // LeetCode: Count Elements With Maximum Frequency
-// Difficulty: Easy
+// Difficulty: Easy//
 // Date: 06-03-2026
 // Learned: Using hashmap for O(n)
 class Solution {
